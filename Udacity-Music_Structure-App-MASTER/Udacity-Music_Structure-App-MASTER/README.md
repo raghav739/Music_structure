@@ -23,7 +23,7 @@ you submit it, it's your own responsibility if you get expelled.
 Copyright (c) 2017 Raghav Vasudeva
 
 Besides the above notice, the following license applies and this license notice
-must be included in all works derived from this project.(additional file of liscence has been added to the repo.)
+must be included in all works derived from this project.(additional file of license has been added to the repo.)
 
 MIT License
 
