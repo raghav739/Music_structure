@@ -8,6 +8,7 @@
 
 # Description 
 - Structure of a music player app
+- Includes variety of layouts and has enhanced user experience by using padding operations
 
 # PROJECT LICENSE
 
